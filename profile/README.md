@@ -1,5 +1,5 @@
 <h1>
-  <img width=100 height=100 src="https://github.com/Insight-Maker/.github/blob/main/images/insight-logo2.png?raw=true"/>
+  <img width=50 height=50 src="https://github.com/Insight-Maker/.github/blob/main/images/insight-logo2.png?raw=true"/>
   Insight Maker
 </h1>
 
